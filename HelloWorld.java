@@ -1,5 +1,5 @@
 /**
-* Exercicio teste para estudos e treinamento
+* Exercicio teste para estudos e treinamentos
 *
 * Author: wldutra
 * Version: 1.0
